@@ -2,5 +2,5 @@
 
 * Polish Mesos website:
   * http://mesos.pl/
-* Redirects to Mesos website:
+* Based on main Mesos website:
   * http://mesos.apache.org/
