@@ -1,6 +1,6 @@
 # Mesos.pl
 
 * Polish Mesos website:
-  * http://mesos.pl/
+  * https://mesos.pl/
 * Based on main Mesos website:
-  * http://mesos.apache.org/
+  * https://mesos.apache.org/
